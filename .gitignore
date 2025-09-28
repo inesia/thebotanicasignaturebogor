@@ -1,0 +1,11 @@
+# Exclude specific files
+.htaccess
+documentation.zip
+
+# Common exclusions
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+node_modules/
+.env

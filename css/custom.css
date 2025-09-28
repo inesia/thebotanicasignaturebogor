@@ -1,0 +1,13 @@
+.logo {height: 70px; padding-top: 10px;}
+.welcomeSection {background-size: cover; padding-bottom: 0;}
+.welcomHeading {line-height: normal;}
+.welcomText1 {margin-top: 600px;}
+.welcomText {margin-top: -170px;}
+.facts {margin-top: 100px;}
+
+
+@media (min-width: 1440px)
+{
+.bannerDetails {padding-top: 250px; padding-bottom: 480px; }
+
+}

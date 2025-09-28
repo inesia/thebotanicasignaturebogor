@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap hanya berisi halaman index
+Sitemap: https://thebotanicasignaturebogor.com/sitemap.xml
+
+# Disallow area sensitif
+Disallow: /php/
+Disallow: /admin/
+Disallow: /cgi-bin/
+
+# Crawl delay
+Crawl-delay: 1
